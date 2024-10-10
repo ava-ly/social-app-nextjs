@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project with Prisma.
+This is a [Next.js](https://nextjs.org) project with [Prisma](https://www.prisma.io).
 
 ## Getting Started
 
